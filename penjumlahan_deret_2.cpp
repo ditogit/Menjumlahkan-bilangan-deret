@@ -9,10 +9,12 @@ int main() {
     cin>>z;
     
     if(z<=0){
+    	
     	cout<<"Angka yang dimasukan tidak sesuai, ulangi lagi"; 
+    	
 	} else {
 	
-	    cout<<"Penjumlahan deret bilangan bulat positif dari "<< z << "\n";
+	    cout<<"Penjumlahan deret bilangan bulat positif dari "<< z << " \n";
 	    
 	    for (x=1; x<=z ;x++){
 	    y = y+x;
