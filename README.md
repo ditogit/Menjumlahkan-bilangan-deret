@@ -1,2 +1,2 @@
 # Menjumlahkan-bilangan-deret
-C++
+menggunakan C++
